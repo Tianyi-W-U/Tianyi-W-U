@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Tianyi-W-U
 - 👀 I’m interested in migration, LGBTQ+, public opinion, and civil societies
-- 🌱 I’m currently learning Sociology and Political Science in HKU as an undergraduate student
+- 🌱 I’m currently on exchange at UC Berkeley. I learn Political Science, Sociology in HKU as an undergraduate student
 - 💞️ I’m looking to collaborate on quantitative social sciences research
+- ⌨️ I am developing a website for fun! Programming is my hobby.
 - 📫 How to reach me jessiewu.hku@gmail.com
 
 <!---
