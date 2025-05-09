@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tianyi-W-U
 - 👀 I’m interested in political communication, public opinion, civil societies, and queer theory
-- 🌱 I’m currently on exchange at UC Berkeley. I learn Political Science and Sociology at HKU as an junior undergraduate
+- 🌱 I’m currently on exchange at UC Berkeley. I learn Political Science and Sociology at HKU as a junior undergraduate
 - ⌨️ I am developing a website for fun! Hopefully I can really get it together this summer
 - 📫 How to reach me jessietywu@gmail.com
 
